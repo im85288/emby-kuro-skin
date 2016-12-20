@@ -1,10 +1,10 @@
 {
-    "name": "emby.defaultskin",
-    "displayName": "Default Skin",
+    "name": "emby.kuroskin",
+    "displayName": "Kuro",
     "version": "1.0.0",
-    "description": "The default Emby skin.",
+    "description": "Kuro Emby Skin",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby-web-defaultskin",
+    "homepage": "https://github.com/im85288/emby-kuro-skin",
     "thumb": "",
     "backdrop": ""
 }

@@ -2,7 +2,7 @@ define([], function () {
     'use strict';
 
     return {
-        id: 'defaultskin',
-        name: 'Default Skin'
+        id: 'emby.kuroskin',
+        name: 'Kuro Emby Skin'
     };
 });
