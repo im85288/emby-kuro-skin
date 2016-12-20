@@ -19,7 +19,7 @@ This file is used to display information about your add-on in places such as the
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: https://github.com/im85288/emby-kuro-skin/package.json
+Install into the app by installing a plugin from a url. The url is: https://im85288.github.io/emby-kuro-skin/package.json
 
 # Local Testing
 
